@@ -8,7 +8,9 @@
  Version: 1.0.0
   Author: Philippe Roy
     Repo: https://github.com/PhilippeRoy/Searchable.git
+  Issues: https://github.com/PhilippeRoy/Searchable/issues
 Liscence: MIT
+
 */
 
 // Make Searchable List

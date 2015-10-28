@@ -1,0 +1,21 @@
+{
+  "name": "Searchable",
+  "homepage": "https://github.com/PhilippeRoy/Searchable",
+  "authors": [
+    "Philippe Roy"
+  ],
+  "description": "A jQuery Plugin that allows for lists to be searchable",
+  "main": "searchable.plugin.js",
+  "moduleType": [],
+  "keywords": [
+    "Searchable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
